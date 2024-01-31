@@ -5,7 +5,7 @@ Brayan Andreys Gp</a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-<p align="left"> <a href="[https://twitter.com/100rabhcsmc](https://www.instagram.com/brayanandreysgonzalez/)" target="blank"> 
+<p align="left"> <a href="https://www.instagram.com/brayanandreysgonzalez/" target="blank"> 
 	<img src="https://www.svgrepo.com/show/331440/instagram.svg" alt="instagram" width="35" height="35" /></a> 
  </p>
 
