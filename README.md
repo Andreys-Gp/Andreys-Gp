@@ -17,6 +17,11 @@ Brayan Andreys Gp</a></h1>
  <p align="left"> <a href="https://app.aluracursos.com/user/brayan6gonzalez/program/certificate" target="_blank"> 
 	<img src="https://www.svgrepo.com/show/355152/oracle.svg" alt="oracle" width="35" height="35" /></a> 
  </p>
+
+<p align="left"> <a href="https://app.aluracursos.com/user/brayan6gonzalez/program/certificate" target="_blank"> 
+	<img src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" alt="Alura" width="35" height="35" /></a> 
+ </p>
+ 
  </section>
 
 <a target="_blank" align="center">
