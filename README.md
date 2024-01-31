@@ -6,8 +6,8 @@ Brayan Andreys Gp</a></h1>
 <section>
   <div style="display: flex; flex-direction: row-reverse; align-items: center;">
     <p><img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /></p>
-    <p><a href="https://www.instagram.com/brayanandreysgonzalez/" target="_blank"><img src="https://www.svgrepo.com/show/331440/instagram.svg" alt="instagram" width="35" height="35" /></a></p>
-    <p><a href="https://www.linkedin.com/in/brayan-andreys-gonzalez-perez-2b587723b/" target="_blank"><img src="https://www.svgrepo.com/show/469190/linkedin.svg" alt="linkedin" width="35" height="35" /></a></p>
+  <!--   <p><a href="https://www.instagram.com/brayanandreysgonzalez/" target="_blank"><img src="https://www.svgrepo.com/show/331440/instagram.svg" alt="instagram" width="35" height="35" /></a></p> -->
+    <!-- <p><a href="https://www.linkedin.com/in/brayan-andreys-gonzalez-perez-2b587723b/" target="_blank"><img src="https://www.svgrepo.com/show/469190/linkedin.svg" alt="linkedin" width="35" height="35" /></a></p> -->
     <p><a href="https://app.aluracursos.com/user/brayan6gonzalez/program/certificate" target="_blank"><img src="https://www.svgrepo.com/show/355152/oracle.svg" alt="oracle" width="35" height="35" /></a></p>
     <p><a href="https://app.aluracursos.com/user/brayan6gonzalez" target="_blank"><img src="https://avatars.githubusercontent.com/u/4975968" alt="Alura" width="35" height="35" /></a></p>
   </div>
@@ -59,17 +59,7 @@ Brayan Andreys Gp</a></h1>
 
 </p>
 
-### Blogs posts
 
-<!-- BLOG-POST-LIST:START -->
 
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-<!-- BLOG-POST-LIST:END -->
 
----
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
