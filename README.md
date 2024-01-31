@@ -4,14 +4,15 @@ Brayan Andreys Gp</a></h1>
 </h3>
 
 <section>
-  <div style="display: flex; flex-wrap: wrap; justify-content: flex-end;">
+  <div style="display: flex; flex-direction: row-reverse; align-items: center;">
     <p><img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /></p>
     <p><a href="https://www.instagram.com/brayanandreysgonzalez/" target="_blank"><img src="https://www.svgrepo.com/show/331440/instagram.svg" alt="instagram" width="35" height="35" /></a></p>
     <p><a href="https://www.linkedin.com/in/brayan-andreys-gonzalez-perez-2b587723b/" target="_blank"><img src="https://www.svgrepo.com/show/469190/linkedin.svg" alt="linkedin" width="35" height="35" /></a></p>
     <p><a href="https://app.aluracursos.com/user/brayan6gonzalez/program/certificate" target="_blank"><img src="https://www.svgrepo.com/show/355152/oracle.svg" alt="oracle" width="35" height="35" /></a></p>
-    <p><a href="https://app.aluracursos.com/user/brayan6gonzalez" target="_blank"><img src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" alt="Alura" width="35" height="35" /></a></p>
+    <p><a href="https://app.aluracursos.com/user/brayan6gonzalez" target="_blank"><img src="https://avatars.githubusercontent.com/u/4975968" alt="Alura" width="35" height="35" /></a></p>
   </div>
 </section>
+
 
 <a target="_blank" align="center">
   <img autoplay="true" align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" >
