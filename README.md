@@ -42,9 +42,7 @@ Brayan Andreys Gp</a></h1>
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/brayan-andreys-gonzalez-perez-2b587723b/">
 			<img src="https://www.svgrepo.com/show/452051/linkedin.svg" width="35" height="35"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Andreys-Gp">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+		<img src="https://www.svgrepo.com/show/475654/github-color.svg"></a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
 					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
