@@ -11,7 +11,11 @@ Brayan Andreys Gp</a></h1>
  </p>
  
  <p align="left"> <a href="https://www.linkedin.com/in/brayan-andreys-gonzalez-perez-2b587723b/" target="_blank"> 
-	<img src="https://www.svgrepo.com/show/469190/linkedin.svg" alt="instagram" width="35" height="35" /></a> 
+	<img src="https://www.svgrepo.com/show/469190/linkedin.svg" alt="linkedin" width="35" height="35" /></a> 
+ </p>
+
+ <p align="left"> <a href="https://app.aluracursos.com/user/brayan6gonzalez/program/certificate" target="_blank"> 
+	<img src="https:https://www.svgrepo.com/show/355152/oracle.svg" alt="oracle" width="35" height="35" /></a> 
  </p>
  </section>
 
