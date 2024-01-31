@@ -10,7 +10,7 @@ Brayan Andreys Gp</a></h1>
 	<img src="https://www.svgrepo.com/show/331440/instagram.svg" alt="instagram" width="35" height="35" /></a> 
  </p>
  
- <p align="left"> <a href="www.linkedin.com/in/brayan-andreys-gonzalez-perez-2b587723b/" target="blank"> 
+ <p align="left"> <a href="https://www.linkedin.com/in/brayan-andreys-gonzalez-perez-2b587723b/" target="blank"> 
 	<img src="https://www.svgrepo.com/show/469190/linkedin.svg" alt="instagram" width="35" height="35" /></a> 
  </p>
  </section>
