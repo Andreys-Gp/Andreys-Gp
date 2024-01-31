@@ -18,21 +18,21 @@ Brayan Andreys Gp</a></h1>
   <img autoplay="true" align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" >
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank"></a>
-
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🔭 Currently, I am studying electrical engineering and software analysis and development technology.
+  
+- 🌱 I am always learning new software and electronics technologies.
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I am currently studying technology at SENA and engineering at Universidad Francisco de Paula Santander.
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 📝 I regularly write articles 
 
 - 💬 Ask me about **Reactjs & React-Native**
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **brayan6gonzalez@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://app.aluracursos.com/user/brayan6gonzalez" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
