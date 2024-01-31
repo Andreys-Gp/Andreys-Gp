@@ -4,7 +4,7 @@ Brayan Andreys Gp</a></h1>
 </h3>
 
 <section>
-  <div style="display: flex; flex-wrap: wrap;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: flex-end;">
     <p><img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /></p>
     <p><a href="https://www.instagram.com/brayanandreysgonzalez/" target="_blank"><img src="https://www.svgrepo.com/show/331440/instagram.svg" alt="instagram" width="35" height="35" /></a></p>
     <p><a href="https://www.linkedin.com/in/brayan-andreys-gonzalez-perez-2b587723b/" target="_blank"><img src="https://www.svgrepo.com/show/469190/linkedin.svg" alt="linkedin" width="35" height="35" /></a></p>
